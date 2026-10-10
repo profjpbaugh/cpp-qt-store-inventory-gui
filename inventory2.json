@@ -1,0 +1,23 @@
+[
+    {
+        "imagePath": "",
+        "name": "Coffee Mug",
+        "price": 4.99,
+        "quantity": 12,
+        "sku": "MUG-001"
+    },
+    {
+        "imagePath": "D:/Data Files/Udemy/Instructor/Codestars/Qt/demo-workdir/_images/notebook.png",
+        "name": "Notebook",
+        "price": 2.49,
+        "quantity": 30,
+        "sku": "NOTE-100"
+    },
+    {
+        "imagePath": "",
+        "name": "Desk Lamp",
+        "price": 24.99,
+        "quantity": 5,
+        "sku": "LAMP-200"
+    }
+]

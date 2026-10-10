@@ -1,0 +1,20 @@
+# Build directories
+build-*/
+*.pro.user
+*.creator.user
+*.autosave
+
+# Compiled objects
+*.o
+*.obj
+*.moc
+*.qrc.cpp
+ui_*.h
+
+# Binaries
+debug/
+release/
+*.exe
+*.app
+*.dll
+*.dylib
